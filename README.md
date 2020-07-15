@@ -2,7 +2,7 @@
 
 * To-Do List built with jQuery that uses local storage.
 
-## Play The Game Now
+## Demo
 
 * [Click to try the To-Do List](https://hthrace.github.io/To-Do-List/).
 
