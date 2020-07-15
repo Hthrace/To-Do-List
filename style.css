@@ -157,5 +157,11 @@ h1{
         height: 20%;
         text-align: center;
     }
+    h1{
+        font-size: 55px;
+        color: white;
+        font-family: 'Gochi Hand', cursive;
+        margin-bottom: 0.5rem;
+    }
 }
 
